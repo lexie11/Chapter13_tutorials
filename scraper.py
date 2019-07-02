@@ -1,4 +1,4 @@
 import scraperwiki
-html = scraperwiki.scrape('https://scraperwiki.com/hello_world.html')
+html = scraperwiki.scrape('https://www.bbc.co.uk/news')
 print html
       
